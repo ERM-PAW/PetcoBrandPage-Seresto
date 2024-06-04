@@ -45,6 +45,7 @@
 }
 
 /* Custom styles */
+
 .citrusStylesSE-seresto .citrusStylesSE-card__img{
     background: rgba(9, 123, 171, 0.37);
     display: flex;
@@ -68,6 +69,10 @@
 
 .citrusStylesSE-seresto .citrusStylesSE-grid--cards {
     padding: 0;
+}
+
+.citrusStylesSE-seresto .citrusStylesSE-grid__cell {
+    max-width: 361px;
 }
 
 @media all and (max-width: 767px) {
