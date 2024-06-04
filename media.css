@@ -16,6 +16,11 @@
     .citrusStylesSE-seresto__hero--text .citrusStylesSE-header2 {
         font-size: calc(var(--citrusStylesSE-text-font-size-large) + 5px);
     }
+
+    /* 3-Across */
+    .citrusStylesSE-seresto__education {
+        justify-content: flex-start;
+    }
 }
 
 @media (max-width: 63.999em) { /*max-width: 1023.99px*/

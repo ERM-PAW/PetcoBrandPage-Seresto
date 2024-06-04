@@ -45,6 +45,10 @@
 }
 
 /* Custom styles */
+.citrusStylesSE-seresto__education {
+    align-items: center;
+    justify-content: center;
+}
 
 .citrusStylesSE-seresto .citrusStylesSE-card__img{
     background: rgba(9, 123, 171, 0.37);
@@ -73,6 +77,14 @@
 
 .citrusStylesSE-seresto .citrusStylesSE-grid__cell {
     max-width: 361px;
+}
+
+.citrusStylesSE-seresto__3-across--footer {
+    padding: 30px 0 0;
+}
+
+.citrusStylesSE-seresto__3-across--footer .citrusStylesSE-disclaimer {
+    padding: 10px 0 0;
 }
 
 @media all and (max-width: 767px) {
